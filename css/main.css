@@ -4,3 +4,38 @@
 .nav-spacing {
   margin: 0 0 0 10px;
 }
+.image-link {
+  text-decoration: none;
+}
+.moby_dick_header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+.whale_pod_image_block {
+  display: block;
+  margin: 0 auto;
+}
+.book_review {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+.book_cover {
+  height: 200px;
+  float: left;
+  margin: 0 40px;
+}
+.book_review_blockquote {
+  font-style: italic;
+  font-size: 20px;
+}
+.red_span {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
+.table_data {
+  padding: 10px;
+}
